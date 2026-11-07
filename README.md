@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Anjay Sharma 👋
 
-<!--
-**aakash-itdev/aakash-itdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineer working where the web meets AI**: building intelligent, responsive and visually engaging digital experiences.
 
-Here are some ideas to get you started:
+### 🛠️ Tech I work with
+TypeScript · JavaScript · React · Next.js · Node.js · Tailwind CSS · AI / LLM APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm building
+- **Logistics Website**: a modern, responsive web platform for a logistics business, built with TypeScript
+- **Personal Portfolio**: anjay.dev *(launching soon)*
+
+### 📫 Reach me
+- Portfolio: anjay.dev *(coming soon)*
